@@ -70,7 +70,7 @@ nav a{
 /*Cambios al pasar el mouse sobre el elemento (hover)*/
 nav a:hover{
     /*Cambio de color*/
-    color: #77db8c;
+    color:rgb(240, 248, 131);
 }
 
 /*ESTILOS LOGO BARRA DE NAVEGACIÓN*/
